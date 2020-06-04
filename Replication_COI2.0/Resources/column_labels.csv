@@ -1,0 +1,38 @@
+Column,Type,Label
+geoid,text,2010 census tract FIPS codes
+year,numeric ,Year of observation (2010 or 2015)
+in100,numeric ,"This variable is equal to 1 if the census tract is located in one of the 100 largest metro areas (as of 2015), zero if located in a metro- or micropolitan area that does not belong to the 100 largest metro areas, and blank if it is located outside a metro- or micropolitan area."
+msaid15,text,Metro/Micro Area (2015) FIPS Code
+statefips,text,State FIPS Code
+dec_pop,numeric ,"Number of children aged 0-17, 2010 Decennial Census."
+acs_pop,numeric ,"Number of children aged 0-17, ACS (2008-12 for 2010, 2013-17 for 2015)"
+percent_water,numeric ,Percentage of census tract covered by water
+ED_PRXECE,numeric ,Early childhood education centers
+ED_PRXHQECE,numeric ,High-quality early childhood education centers
+ED_ECENROL,numeric ,Early childhood education enrollment
+ED_READING,numeric ,Third grade reading proficiency
+ED_MATH,numeric ,Third grade math proficiency
+ED_HSGRAD,numeric ,High school graduation rate
+ED_APENR,numeric ,Advanced Placement course enrollment
+ED_COLLEGE,numeric ,College enrollment in nearby institutions
+ED_SCHPOV,numeric ,School poverty
+ED_TEACHXP,numeric ,Teacher experience
+ED_ATTAIN,numeric ,Adult educational attainment
+HE_FOOD,numeric ,Access to healthy food
+HE_GREEN,numeric ,Access to green space
+HE_WALK,numeric ,Walkability
+HE_VACANCY,numeric ,Housing vacancy rate
+HE_SUPRFND,numeric ,Hazardous waste dump sites
+HE_RSEI,numeric ,"Industrial pollutants in air, water or soil"
+HE_PM25,numeric ,Airborne microparticles
+HE_OZONE,numeric ,Ozone concentration
+HE_HEAT,numeric ,Extreme heat exposure
+HE_HLTHINS,numeric ,Health insurance coverage
+SE_EMPRAT,numeric ,Employment rate
+SE_JOBPROX,numeric ,Commute duration
+SE_POVRATE,numeric ,Poverty rate
+SE_PUBLIC,numeric ,Public assistance rate
+SE_HOME,numeric ,Homeownership rate
+SE_OCC,numeric ,High-skill employment
+SE_MHE,numeric ,Median household income
+SE_SINGLE,numeric ,Single-headed households
