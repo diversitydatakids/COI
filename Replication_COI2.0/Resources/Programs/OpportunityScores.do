@@ -4,7 +4,7 @@ cap program drop OpportunityScores
 program define OpportunityScores
 syntax varlist, [LVLSOF(string) LBLSTUB(string) SUFF(string)] POPVAR(string)
 
-	version 13.1
+	version 14.0
 
 	if "`lvlsof'"!="" {
 

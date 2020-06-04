@@ -1,7 +1,7 @@
 ***Author: Clemens Noelke
 
 #d ;
-clear all; version 13.1; set more off; set seed 1003; run "Resources/Startup"; 
+clear all; version 14.0; set more off; set seed 1003; run "Resources/Startup"; 
 #d cr
  
 * Import domain and overall z-scores

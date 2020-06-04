@@ -4,7 +4,7 @@ cap program drop Missings
 program define Missings
 syntax, MTHRESH(integer)
 
-version 14.0
+	version 14.0
 
 	noi di _n "  Dropping 100% water tracts: " _cont
 	drop if percent_water==100

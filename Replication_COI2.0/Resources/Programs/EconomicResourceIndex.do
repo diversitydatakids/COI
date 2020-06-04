@@ -4,8 +4,7 @@ cap program drop EconomicResourceIndex
 program define EconomicResourceIndex
 syntax using/, NAME(string)
 
-version 14.0
-
+	version 14.0
 	
 	preserve
 
