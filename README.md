@@ -2,7 +2,7 @@
 
 ## diversitydatakids.org. June 2020. 
 
-You need Stata version 14 or higher to run the scripts (do-files) made available here. Please review the COI 2.0 Technical Documentation for a description of the methodology and data sources.
+You need Stata version 14 or higher to run the scripts (do-files) made available here. Please review the COI 2.0 Technical Documentation at http://diversitydatakids.org/research-library/research-brief/how-we-built-it for a description of the methodology and data sources.
 
 To replicate the published zscores.csv and index.csv files, first, run zscores.do and then run index.do.
 
