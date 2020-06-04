@@ -4,7 +4,7 @@
 
 You need Stata version 14 or higher to run the scripts (do-files) made available here. Please review the COI 2.0 Technical Documentation at http://diversitydatakids.org/research-library/research-brief/how-we-built-it for a description of the methodology and data sources.
 
-To replicate the published zscores.csv and index.csv files, first, run zscores.do and then run index.do.
+All replication materials are acccessible in the Replication_COI2.0 folder. To replicate the published zscores.csv and index.csv files, first, run zscores.do and then run index.do.
 
 The zscores.do file converts raw indicator values (Data/indicators_raw.csv) to z-scores, calculates the economic resource index using the weights obtained from principal components analysis (stored in Resources/weights_pca.csv). It then calculates domain average z-scores (using Resources/weights_indicators.csv) and the overall average z-scores (using Resources/weights_domain_scores.csv). It exports a Stata file (Data/index.dta) containing domain z-scores and a CSV file containing indicator z-scores (Data/zscores.csv), identical to the one published at http://data.diversitydatakids.org/dataset/coi20-child-opportunity-index-2-0-database.
 
