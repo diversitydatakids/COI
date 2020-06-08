@@ -6,7 +6,7 @@
 
 For comments and questions, please email [info@diversitydatakids.org](info@diversitydatakids.org) or fill in the "Contact us" form [here](http://diversitydatakids.org/contact-us, "diversitydatakids.org/contact-us")
 
-## COI20_Data:  
+**Instructions**  
 
 You need Stata version 14 or higher to run the scripts (do-files) made available in the COI20_folder. Please review the [COI 2.0 Technical Document](http://diversitydatakids.org/research-library/research-brief/how-we-built-it "How we built it") for a description of the methodology and data sources.
 
