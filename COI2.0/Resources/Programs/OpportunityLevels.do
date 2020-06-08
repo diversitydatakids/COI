@@ -12,7 +12,7 @@ syntax varlist, [LVLSOF(string)] SUFF(string) POPVAR(string)
 	
 	if "`lvlsof'"!="" {
 	
-		qui flevelsof `lvlsof', local(lvls) 
+		qui levelsof `lvlsof', local(lvls) 
 		
 		foreach vr in `varlist' {
 

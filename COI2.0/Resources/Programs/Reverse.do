@@ -10,7 +10,7 @@ syntax using/
 	preserve
 		clear
 		import delim using "`using'", delim(",") stringcols(_all) varn(1)
-		qui flevelsof column, clean local(reverselist)
+		qui levelsof column, clean local(reverselist)
 	restore
 
 	* Reverse

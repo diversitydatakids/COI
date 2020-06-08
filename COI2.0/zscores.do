@@ -14,7 +14,7 @@ clear
 ********************************************************************************
 
 * Import raw indicator values
-import delim using "Data/indicators_raw.csv", varn(1) delim(",") case(preserve) stringcol(1 4/5)
+import delim using "Data/raw.csv", varn(1) delim(",") case(preserve) stringcol(1 4/5)
 
 ********************************************************************************
 
