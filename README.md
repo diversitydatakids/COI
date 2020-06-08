@@ -1,8 +1,9 @@
-# Child Opportunity Index 2.0 Materials.
+# Child Opportunity Index 2.0 Materials
 
-## [diversitydatakids.org](http://diversitydatakids.org/ "diversitydatakids.org"). 
+## [diversitydatakids.org](http://diversitydatakids.org/ "diversitydatakids.org")
 
-### June 8, 2020. 
+### Published June 8, 2020. 
+
 
 For comments and questions, please email [info@diversitydatakids.org](info@diversitydatakids.org) or fill in the "Contact us" form [here](http://diversitydatakids.org/contact-us, "diversitydatakids.org/contact-us")
 
