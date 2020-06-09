@@ -1,14 +1,14 @@
-# Child Opportunity Index 2.0 Replication Materials
+## Child Opportunity Index 2.0 Replication Materials
 
-## [diversitydatakids.org](http://diversitydatakids.org/ "diversitydatakids.org"), June 8, 2020. 
+[diversitydatakids.org](http://diversitydatakids.org/ "diversitydatakids.org"). June 8, 2020. 
 
 For comments and questions, please email [info@diversitydatakids.org](info@diversitydatakids.org) or fill in the "Contact us" form [here](http://diversitydatakids.org/contact-us, "diversitydatakids.org/contact-us")
 
 **Instructions**  
 
-You need Stata version 14 or higher to run the scripts (do-files) made available in the COI20_folder. Please review the [COI 2.0 Technical Document](http://diversitydatakids.org/research-library/research-brief/how-we-built-it "How we built it") for a description of the methodology and data sources.
+You need Stata version 14 or higher to run the scripts (do-files). 
 
-All replication materials are accessible in the COI2.0 folder. To replicate published z-scores, Child Opportunity Scores and Child Opportunity Levels, download the complete contents of the COI20_Data folder while preserving the directory structure. You can do this by clicking "Clone or download" and then "Download ZIP", which will download a zipped version of the COI20_Data folder. 
+To replicate published z-scores, Child Opportunity Scores and Child Opportunity Levels, download the complete contents of the COI20_Data folder while preserving the directory structure. You can do this by clicking "Clone or download" and then "Download ZIP", which will download a zipped version of the COI20_Data folder. 
 
 To replicate the published zscores.csv and index.csv files, first, run zscores.do and then run index.do.
 
