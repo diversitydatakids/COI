@@ -1,4 +1,6 @@
-## Child Opportunity Index 2.0 
+**Child Opportunity Index (COI) 2.0**
+
+***
 
 [diversitydatakids.org](http://diversitydatakids.org/ "diversitydatakids.org"). June 8, 2020. 
 

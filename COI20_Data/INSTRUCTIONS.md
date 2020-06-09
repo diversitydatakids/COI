@@ -1,4 +1,6 @@
-## Child Opportunity Index 2.0 Replication Materials
+**Child Opportunity Index 2.0 Replication Materials**
+
+***
 
 [diversitydatakids.org](http://diversitydatakids.org/ "diversitydatakids.org"). June 8, 2020. 
 
