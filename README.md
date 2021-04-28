@@ -4,7 +4,7 @@
 
 [diversitydatakids.org](http://diversitydatakids.org/ "diversitydatakids.org"). June 8, 2020. 
 
-For comments and questions, please email <info@diversitydatakids> or fill in the "Contact us" form [here](http://diversitydatakids.org/contact-us, "diversitydatakids.org/contact-us")
+For comments and questions, please email <info@diversitydatakids.org> or fill in the "Contact us" form [here](http://diversitydatakids.org/contact-us "diversitydatakids.org/contact-us")
 
 Please review the [COI 2.0 Technical Document](http://diversitydatakids.org/research-library/research-brief/how-we-built-it "diversitydatakids.org/research-library/research-brief/how-we-built-it") for a description of COI 2.0 methodology and data sources.
 
